@@ -60,4 +60,9 @@ For further information and resources related to the `Final_Sales_2019` dataset,
 4. [Market Basket Analysis in Python](https://www.kdnuggets.com/2019/09/market-basket-analysis-python.html)
 5. [Sentiment Analysis with Python](https://www.kdnuggets.com/2018/08/sentiment-analysis-python.html)
 
-I hope this README helps you understand the `Final_Sales_2019` dataset better! Let me know if you have any further questions.
+## License
+This project is licensed underthe MIT License- see the LICENSE FILE for details
+
+I hope this README helps you understand the `Final_Sales_2019` dataset better! 
+Let me know if you have any further questions.
+Email:mercydboateng@gmail.com
