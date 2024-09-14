@@ -4,6 +4,7 @@ Bay Technologies has collected transactional data for the year 2019 but has not 
 ### Project Goal
 The objective is to design and deliver an end-to-end business intelligence solution that analyzes the client’s 2019 transactional data by leveraging on the CRISP-DM methodology. The goal is to generate insights on sales trends, seasonality trends, product performance, analyze geographical delivery patterns and provide actionable recommendations to help the client increase sales and improve efficiency. The solution will also categorize products based on their price levels and uncover additional insights beyond the client’s specific questions.
 
+
 ### Data Source
 1. One Drive
 2. Database Server
