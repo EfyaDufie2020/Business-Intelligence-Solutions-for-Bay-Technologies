@@ -1,12 +1,13 @@
 ## Description
 Bay Technologies has collected transactional data for the year 2019 but has not been able to leverage it for insights. They seek to extract meaningful information from the data to identify key opportunities to boost sales and improve operational efficiency. They are specifically interested in understanding revenue trends, seasonality trends, product sales performance, and customer preferences across different time periods and locations. Their goal is to make data-driven decisions to optimize their business operations, sales and makerting strategies and overall business performance.
 
+### Project Goal
+The objective is to design and deliver an end-to-end business intelligence solution that analyzes the client’s 2019 transactional data by leveraging on the CRISP-DM methodology. The goal is to generate insights on sales trends, seasonality trends, product performance, analyze geographical delivery patterns and provide actionable recommendations to help the client increase sales and improve efficiency. The solution will also categorize products based on their price levels and uncover additional insights beyond the client’s specific questions.
+
 ### Data Source
 1. One Drive
 2. Database Server
-
-### Project Goal
-The objective is to design and deliver an end-to-end business intelligence solution that analyzes the client’s 2019 transactional data by leveraging on the CRISP-DM methodology. The goal is to generate insights on sales trends, seasonality trends, product performance, analyze geographical delivery patterns and provide actionable recommendations to help the client increase sales and improve efficiency. The solution will also categorize products based on their price levels and uncover additional insights beyond the client’s specific questions.
+   
 
 The `Final_Sales_2019` dataset is a cleaned and processed version of the original sales data collected from various data sources. The dataset contains information about individual sales transactions, including the product name, quantity ordered, price per unit, order date, purchase address, and total sales generated.
 
