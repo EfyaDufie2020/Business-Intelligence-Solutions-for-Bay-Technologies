@@ -53,6 +53,8 @@ Visualize the data using various plots and charts to better understand the patte
 4. Scatter plots to examine the relationship between sales and other factors.
 5. Heat maps to visualize the correlation between different factors.
 
+[Power BI](https://app.powerbi.com/groups/me/reports/f5b73e7c-4286-4e4a-804e-e1dd0465af24/91fba607080cd602d082?experience=power-bi)
+
 ## Additional Resources
 For further information and resources related to the `Final_Sales_2019` dataset, consider the following:
 
