@@ -1,3 +1,5 @@
+![Bay Technologies Dashboard](./Data/Capture%207.PNG)
+
 ## Description
 Bay Technologies has collected transactional data for the year 2019 but has not been able to leverage it for insights. They seek to extract meaningful information from the data to identify key opportunities to boost sales and improve operational efficiency. They are specifically interested in understanding revenue trends, seasonality trends, product sales performance, and customer preferences across different time periods and locations. Their goal is to make data-driven decisions to optimize their business operations, sales and makerting strategies and overall business performance.
 
